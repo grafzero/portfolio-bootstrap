@@ -402,14 +402,15 @@ footer#kontakt div#contact-form input[type="submit"] {
     padding-bottom: 5px;
     padding-left: 15px;
     padding-right: 15px;
+    text-align: center;
     margin-bottom: 5px;
     margin-top: 5px;
     outline: none;
     color: white;
     background-color: #80c95e;
     text-transform: uppercase;
-    width: 25%;
-    margin-left: 75%;
+    width: 30%;
+    margin-left: 70%;
     border: 1px solid white;
 }
 
